@@ -1,0 +1,7 @@
+json_response = {
+		status : 200, 
+		message : 'succssful' , 
+		result : [ 'sunday' , 'monday' , 'tuesday' , 'wednesday'
+  ], 
+		code : 2000
+}
